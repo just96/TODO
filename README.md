@@ -1,34 +1,48 @@
-# TODO List App
+## TODO List App 📝
 
 A simple **web-based TODO List** built with **vanilla JavaScript** that allows you to manage tasks, edit them, and track their creation time. Tasks are saved in **localStorage**, so they persist across page reloads.
 
-## Features
+## Features ✨
 
-- Add new tasks
-- Edit existing tasks
-- Delete individual tasks
-- Clear all tasks
-- Real-time clock display
-- Task creation timestamps
-- Alerts for duplicates, empty tasks, or cleared list
-- Persistent storage with `localStorage`
+➕ **Add new tasks**
 
-## Technologies
+✏️ **Edit existing tasks**
 
-- HTML / CSS (Bootstrap 5)
-- JavaScript (vanilla)
-- Bootstrap Icons
+❌ **Delete individual tasks**
 
-## Concepts Applied
+🗑️ **Clear all tasks**
 
-- **DOM Manipulation** – dynamically update the task list and buttons
-- **Event Listeners** – handle user interactions like clicks and keypresses
-- **LocalStorage** – store tasks and timestamps to persist data
-- **Date & Time Formatting** – display creation dates in readable format
-- **Alert Handling** – show notifications for invalid actions
+⏰ **Real-time clock display**
 
-## Usage
+📅 **Task creation timestamps**
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/just96/TODO.git
+⚠️ **Alerts for duplicates, empty tasks, or cleared list**
+
+💾 **Persistent storage with localStorage**
+
+## Technologies 🛠️
+
+**HTML / CSS** (Bootstrap 5)
+
+**JavaScript** (vanilla)
+
+**Bootstrap**
+
+## Concepts Applied 📚
+
+**DOM Manipulation** – dynamically update the task list and buttons
+
+**Event Listeners** – handle user interactions like clicks and keypresses
+
+**LocalStorage** – store tasks and timestamps to persist data
+
+**Date & Time Formatting** – display creation dates in readable format
+
+**Alert Handling** – show notifications for invalid actions
+
+## Usage 🚀
+1. Clone the repository
+```bash
+git clone https://github.com/just96/TODO.git
+```
+2. Open index.html in browser
